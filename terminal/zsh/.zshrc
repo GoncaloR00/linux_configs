@@ -115,3 +115,10 @@ source $ZSH/oh-my-zsh.sh
 
 # To customize prompt, run `p10k configure` or edit ~/linux_configs/terminal/zsh/.p10k.zsh.
 [[ ! -f ~/linux_configs/terminal/zsh/.p10k.zsh ]] || source ~/linux_configs/terminal/zsh/.p10k.zsh
+
+
+
+
+# Gonçalo
+alias atom="/home/gribeiro/PhD/phd_experiments/Camera_calibration/ATOM/docker.sh"
+alias kinect="/home/gribeiro/PhD/phd_experiments/Camera_calibration/Kinect/Dockerfiles/docker.sh"
