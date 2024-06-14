@@ -1,0 +1,3 @@
+[submodule "terminal/zsh/ohmyzsh"]
+	path = terminal/zsh/ohmyzsh
+	url = https://github.com/ohmyzsh/ohmyzsh
